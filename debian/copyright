@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: networking-hyperv
-Source: git://github.com/stackforge/networking-hyperv.git
+Source: https://github.com/openstack/networking-hyperv.git
 
 Files: debian/*
 Copyright: (c) 2015, Thomas Goirand <zigo@debian.org>
