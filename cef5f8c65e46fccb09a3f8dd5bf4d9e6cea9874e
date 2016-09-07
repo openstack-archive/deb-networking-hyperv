@@ -1,0 +1,10 @@
+Code-Review+2: Claudiu Belu <cbelu@cloudbasesolutions.com>
+Code-Review+1: venkatamahesh <Venkata.Kotha@infinite.com>
+Code-Review+2: Alessandro Pilotti <apilotti@cloudbasesolutions.com>
+Workflow+1: Alessandro Pilotti <apilotti@cloudbasesolutions.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 21 Sep 2015 18:42:43 +0000
+Reviewed-on: https://review.openstack.org/225871
+Project: openstack/deb-networking-hyperv
+Branch: refs/heads/master
